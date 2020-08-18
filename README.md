@@ -14,4 +14,6 @@ Estrictamente hablando cada objeto en el DOM, se llama nodo,cada atributo, cada 
 Devuelve un numero
 ## nodeName
 
+# 1.5 Asignacion de atributos
+Si en los objetos le queremos anadir un nuevo atributo, este aparecera todas las veces que lo llamemos.En cambio si queremos cambiarle un valor a un atributo ya existente, si lo llamamos con el valor inicial, aparecera el objeto con el valor inicial, y si lo llamamos leugo de cambiarlo, aparecera con el valor cambiado
 
